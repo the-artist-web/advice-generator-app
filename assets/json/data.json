@@ -1,0 +1,405 @@
+{
+    "tips": [
+      {
+        "id": 1,
+        "tip": "It is easy to sit up and take notice, what's difficult is getting up and taking action."
+      },
+      {
+        "id": 2,
+        "tip": "Eat balanced meals that contain all the essential nutrients."
+      },
+      {
+        "id": 3,
+        "tip": "Ensure you drink enough water daily."
+      },
+      {
+        "id": 4,
+        "tip": "Get enough sleep at night to maintain your mental and physical health."
+      },
+      {
+        "id": 5,
+        "tip": "Avoid smoking and stay away from smoke-filled areas."
+      },
+      {
+        "id": 6,
+        "tip": "Take time to relax and avoid daily stress and pressures."
+      },
+      {
+        "id": 7,
+        "tip": "Keep in regular contact with friends and family."
+      },
+      {
+        "id": 8,
+        "tip": "Continuously learn new skills to develop yourself."
+      },
+      {
+        "id": 9,
+        "tip": "Read regularly to nourish your mind and increase your knowledge."
+      },
+      {
+        "id": 10,
+        "tip": "Respect others' time and be punctual."
+      },
+      {
+        "id": 11,
+        "tip": "Brush your teeth regularly to maintain oral health."
+      },
+      {
+        "id": 12,
+        "tip": "Be kind to others and offer help when you can."
+      },
+      {
+        "id": 13,
+        "tip": "Keep your home and surroundings clean."
+      },
+      {
+        "id": 14,
+        "tip": "Set clear goals and work hard to achieve them."
+      },
+      {
+        "id": 15,
+        "tip": "Avoid excessive use of electronic devices."
+      },
+      {
+        "id": 16,
+        "tip": "Learn new languages to broaden your horizons."
+      },
+      {
+        "id": 17,
+        "tip": "Invest in your mental health through meditation and relaxation."
+      },
+      {
+        "id": 18,
+        "tip": "Volunteer in your community and help improve others' lives."
+      },
+      {
+        "id": 19,
+        "tip": "Keep a daily journal to write down your thoughts and goals."
+      },
+      {
+        "id": 20,
+        "tip": "Stay positive and avoid negative thinking."
+      },
+      {
+        "id": 21,
+        "tip": "Enjoy nature and spend time outdoors."
+      },
+      {
+        "id": 22,
+        "tip": "Learn basic first aid skills."
+      },
+      {
+        "id": 23,
+        "tip": "Avoid worrying and try to live in the present moment."
+      },
+      {
+        "id": 24,
+        "tip": "Ensure you eat fruits and vegetables daily."
+      },
+      {
+        "id": 25,
+        "tip": "Take responsibility for your actions and admit your mistakes."
+      },
+      {
+        "id": 26,
+        "tip": "Find inspiration in books, movies, and inspiring people."
+      },
+      {
+        "id": 27,
+        "tip": "Improve your social skills and communication with others."
+      },
+      {
+        "id": 28,
+        "tip": "Set aside daily time for your hobbies."
+      },
+      {
+        "id": 29,
+        "tip": "Avoid negative comparisons and focus on self-improvement."
+      },
+      {
+        "id": 30,
+        "tip": "Work on improving your native language and mastering its rules."
+      },
+      {
+        "id": 31,
+        "tip": "Use public transportation to help reduce pollution."
+      },
+      {
+        "id": 32,
+        "tip": "Make sure to eat breakfast daily."
+      },
+      {
+        "id": 33,
+        "tip": "Avoid fast food and sugary drinks."
+      },
+      {
+        "id": 34,
+        "tip": "Enjoy the simple moments in your daily life."
+      },
+      {
+        "id": 35,
+        "tip": "Learn how to manage your time efficiently."
+      },
+      {
+        "id": 36,
+        "tip": "Work on developing skills in your field of work."
+      },
+      {
+        "id": 37,
+        "tip": "Respect others' opinions and avoid unproductive arguments."
+      },
+      {
+        "id": 38,
+        "tip": "Adhere to moral values and principles."
+      },
+      {
+        "id": 39,
+        "tip": "Avoid excessive caffeine consumption."
+      },
+      {
+        "id": 40,
+        "tip": "Regularly clean and organize your desk."
+      },
+      {
+        "id": 41,
+        "tip": "Visit the doctor regularly for check-ups."
+      },
+      {
+        "id": 42,
+        "tip": "Maintain a regular sleep schedule."
+      },
+      {
+        "id": 43,
+        "tip": "Learn how to control your anger and emotions."
+      },
+      {
+        "id": 44,
+        "tip": "Ensure a balance between work and personal life."
+      },
+      {
+        "id": 45,
+        "tip": "Enjoy arts and music to develop your artistic sense."
+      },
+      {
+        "id": 46,
+        "tip": "Avoid negative people who affect your morale."
+      },
+      {
+        "id": 47,
+        "tip": "Maintain a comfortable and organized work environment."
+      },
+      {
+        "id": 48,
+        "tip": "Be cautious when using social media."
+      },
+      {
+        "id": 49,
+        "tip": "Regularly review your financial accounts."
+      },
+      {
+        "id": 50,
+        "tip": "Keep your personal information confidential."
+      },
+      {
+        "id": 51,
+        "tip": "Regularly update your technical skills."
+      },
+      {
+        "id": 52,
+        "tip": "Choose comfortable and appropriate clothing."
+      },
+      {
+        "id": 53,
+        "tip": "Make sure to express gratitude and appreciation to others."
+      },
+      {
+        "id": 54,
+        "tip": "Eat natural and unprocessed foods."
+      },
+      {
+        "id": 55,
+        "tip": "Learn how to handle criticism constructively."
+      },
+      {
+        "id": 56,
+        "tip": "Avoid using your phone while driving."
+      },
+      {
+        "id": 57,
+        "tip": "Maintain good relationships with your colleagues at work."
+      },
+      {
+        "id": 58,
+        "tip": "Read the Quran daily."
+      },
+      {
+        "id": 59,
+        "tip": "Be patient and cultivate patience in facing challenges."
+      },
+      {
+        "id": 60,
+        "tip": "Use sunscreen to protect your skin."
+      },
+      {
+        "id": 61,
+        "tip": "Avoid gambling and uncalculated financial risks."
+      },
+      {
+        "id": 62,
+        "tip": "Recycle to help protect the environment."
+      },
+      {
+        "id": 63,
+        "tip": "Avoid excessive consumption of sugar and salt."
+      },
+      {
+        "id": 64,
+        "tip": "Raise children with good values and morals."
+      },
+      {
+        "id": 65,
+        "tip": "Ensure you get enough sleep."
+      },
+      {
+        "id": 66,
+        "tip": "Greet your neighbors and communicate with them."
+      },
+      {
+        "id": 67,
+        "tip": "Learn how to manage stress effectively."
+      },
+      {
+        "id": 68,
+        "tip": "Ensure you eat foods rich in proteins."
+      },
+      {
+        "id": 69,
+        "tip": "Develop positive relationships with family members."
+      },
+      {
+        "id": 70,
+        "tip": "Be ready to learn from your mistakes and overcome them."
+      },
+      {
+        "id": 71,
+        "tip": "Do not neglect your mental health and take care of it."
+      },
+      {
+        "id": 72,
+        "tip": "Learn how to manage time effectively to achieve your goals."
+      },
+      {
+        "id": 73,
+        "tip": "Donate blood regularly if you can."
+      },
+      {
+        "id": 74,
+        "tip": "Avoid eating too many fried and fatty foods."
+      },
+      {
+        "id": 75,
+        "tip": "Read the news and updates regularly."
+      },
+      {
+        "id": 76,
+        "tip": "Be forgiving of others and forgive their mistakes."
+      },
+      {
+        "id": 77,
+        "tip": "Wash and sanitize your hands regularly."
+      },
+      {
+        "id": 78,
+        "tip": "Avoid overworking and make sure to rest."
+      },
+      {
+        "id": 79,
+        "tip": "Engage in sports that you enjoy."
+      },
+      {
+        "id": 80,
+        "tip": "Ensure you eat your meals at regular times."
+      },
+      {
+        "id": 81,
+        "tip": "Diversify the foods in your diet."
+      },
+      {
+        "id": 82,
+        "tip": "Always be ready to learn and acquire knowledge."
+      },
+      {
+        "id": 83,
+        "tip": "Avoid stress and make sure to relax."
+      },
+      {
+        "id": 84,
+        "tip": "Strengthen your muscles through regular exercise."
+      },
+      {
+        "id": 85,
+        "tip": "Avoid sitting for long periods without moving."
+      },
+      {
+        "id": 86,
+        "tip": "Eat foods rich in fiber."
+      },
+      {
+        "id": 87,
+        "tip": "Be optimistic and avoid pessimism."
+      },
+      {
+        "id": 88,
+        "tip": "Avoid gossip and make sure to speak kindly."
+      },
+      {
+        "id": 89,
+        "tip": "Learn from others' experiences."
+      },
+      {
+        "id": 90,
+        "tip": "Avoid wasting natural resources."
+      },
+      {
+        "id": 91,
+        "tip": "Review your personal budget regularly."
+      },
+      {
+        "id": 92,
+        "tip": "Strengthen your social relationships."
+      },
+      {
+        "id": 93,
+        "tip": "Avoid excessive consumption of alcoholic beverages."
+      },
+      {
+        "id": 94,
+        "tip": "Improve your cooking skills."
+      },
+      {
+        "id": 95,
+        "tip": "Avoid unnecessary loans and debts."
+      },
+      {
+        "id": 96,
+        "tip": "Protect your eyes from screens."
+      },
+      {
+        "id": 97,
+        "tip": "Learn how to manage negative emotions effectively."
+      },
+      {
+        "id": 98,
+        "tip": "Develop critical thinking skills."
+      },
+      {
+        "id": 99,
+        "tip": "Avoid excessive consumption of sweets."
+      },
+      {
+        "id": 100,
+        "tip": "Make sure to use your free time constructively."
+      }
+    ]
+}
+  
